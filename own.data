@@ -1,0 +1,6 @@
+classes= 7
+train  = /home/pjreddie/data/train.txt
+valid  = /home/pjreddie/data/test.txt
+names = data/classes.names
+backup = /home/pjreddie/backup/
+eval=own
